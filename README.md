@@ -1,5 +1,10 @@
 # 💫 About Me:
-🚀 Software engineering student who enjoys building clean, structured systems and turning complex ideas into simple, working solutions.<br><br>🧠 Curious by nature, detail oriented by habit, and always improving how I design, think, and write code.<br><br>🎯 Focused on growing into a strong engineer who values clarity, logic, and real impact.<br>
+🎓 Software Engineering graduate — recently shipped **Spendo**, a full 
+cross-platform Flutter app with Clean Architecture, BLoC, Drift/SQLite, 
+and Firebase, built as my graduation thesis.<br><br>
+🏗️ I care about building things the right way — structured architecture, 
+clear separation of concerns, and code that's maintainable beyond the first version.<br><br>
+🌍 Based in Russia · Open to opportunities globally
 
 
 ## 🌐 Socials:
